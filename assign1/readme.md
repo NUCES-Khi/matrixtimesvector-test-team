@@ -1,6 +1,10 @@
 # Assignment 1
 ## Team Members
 //-- place table as shown in main readme.md file --//
+|std_id|Name|
+|--------|-|
+|k20-1055|Syed Mohsin Ali Shah|
+
 ## Output Screenshots
 //-- Add output screenshots here. --//
 ## Results and Analysis
